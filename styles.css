@@ -1,0 +1,38 @@
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
+
+.imglargopantalla{
+    width: 100%;
+}
+
+main h2{
+    text-transform: uppercase;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.textoverimagecenter{
+    text-transform: uppercase;
+    color: yellow;
+    text-shadow: 1px 1px 2px black;
+}
+
+.textoverimagecenter2{
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+
+.imagencontexto{
+    border: 1px rgba(0, 0, 0, 0.767) solid;
+    width: 250px;
+}
+
+.imgserv{
+    width: 250px;
+}
+li{
+    list-style: none;
+}
